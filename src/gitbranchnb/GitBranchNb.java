@@ -1,17 +1,14 @@
 
 package gitbranchnb;
-
-/**
- *
- * @author pfiffer.attila
- */
+// haha
 public class GitBranchNb {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        fv();
+    }
+
+    private static void fv() {
+        
     }
     
 }
